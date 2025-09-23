@@ -128,4 +128,4 @@ MIT License — free to use and modify.
 ## ✨ Author
 
 **Developed by Francisco Cardoso**  
-Master's in Mathematical Economics, University of Copenhagen
+MSc in Mathematics Economics, University of Copenhagen
